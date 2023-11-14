@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects
-- 📫 Very active on discord * [![Disocrd][Discord.com]][Discord.com]
+- 📫 Very active on discord * [![Discord][Discord.com]][Discord.com]
 
 <!---
 Walid-1998/Walid-1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
